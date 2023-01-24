@@ -1,0 +1,15 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "theme": "system",
+  "interfaceFontFamily": "",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "",
+  "translucency": false,
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "catppuccin-custom"
+  ],
+  "baseFontSize": 18
+}

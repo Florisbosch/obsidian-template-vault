@@ -1,0 +1,22 @@
+{
+  "vimMode": false,
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "spellcheck": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "./assets",
+  "promptDelete": true,
+  "newFileLocation": "folder",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showFrontmatter": false,
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "Inbox",
+  "showUnsupportedFiles": false
+}

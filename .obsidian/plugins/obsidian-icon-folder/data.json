@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": "#87a7f9",
+    "recentlyUsedIcons": [
+      "FarNoteSticky",
+      "FasClipboardList",
+      "RiTodoLine",
+      "FasNetworkWired",
+      "FasPenRuler"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Inbox": "RiInboxFill",
+  "Daily notes": "FarNoteSticky",
+  "Tasks": "FarCircleCheck",
+  "Work": "FarBuilding",
+  "Utilities": "FasToolbox",
+  "Projects": "FasListCheck",
+  "Knowledge": "FasInfo",
+  "Misc": "FarFolder",
+  "Work/Documentation": "RiStackOverflowLine",
+  "Work/Projects": "FasListCheck",
+  "Work/Research": "FasMagnifyingGlass",
+  "Work/Discussions": "RiDiscussFill",
+  "Work/Sprints": "FasPersonRunning",
+  "Work/Designs": "FasPenRuler",
+  "Work/Architecture": "FasNetworkWired",
+  "Work/Todos": "FasClipboardList",
+  "Work/Notes": "FarNoteSticky"
+}

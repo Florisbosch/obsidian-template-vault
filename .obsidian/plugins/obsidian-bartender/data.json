@@ -1,0 +1,26 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "/": [
+      "Inbox",
+      "Daily notes",
+      "Tasks",
+      "Projects",
+      "Knowledge",
+      "Utilities",
+      "Misc",
+      "Work",
+      "Templates",
+      "Excalidraw"
+    ],
+    "Personal": [
+      "Personal/Sidehustle",
+      "Personal/Random"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}
